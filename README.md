@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brendonfatland
 - 👀 I’m interested in Coding and hiking. I work as a .Net full stack developer at PreferredOne in Minnesota.  
-- 🌱 I’m currently learning Kotlin, Android Studio and SQL Lite.
+- 🌱 I’m currently learning react.
 - 📫 How to reach me send me a message at my email: b.fatland@gmail.com
 
 <!---
